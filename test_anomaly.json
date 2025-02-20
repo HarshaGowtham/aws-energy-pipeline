@@ -1,0 +1,8 @@
+[
+    {
+        "site_id": "test-site-123",
+        "timestamp": "2025-02-19T23:45:00",
+        "energy_generated_kwh": -50.0,
+        "energy_consumed_kwh": 100.0
+    }
+]
