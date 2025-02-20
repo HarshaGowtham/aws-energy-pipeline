@@ -84,6 +84,7 @@ The alert is sent via email (configured in AWS SNS).
 
 ✅ Submission Details
 GitHub Repo: https://github.com/HarshaGowtham/aws-energy-pipeline
+Video Link: https://www.loom.com/share/68e9c8f14b1d49e1892915c53329f7d3
 
 
 ---
